@@ -1,4 +1,4 @@
-
+options(bitmapType='cairo')
 #setwd("D:/GCRF_UoG/Vicky_JCR_Shiny/Tcells_amp_adopted")
 source("tcell_libs_raw_dash.R", local = TRUE)
 ##Creating the ui object for the user interface
